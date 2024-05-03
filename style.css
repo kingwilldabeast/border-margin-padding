@@ -1,0 +1,41 @@
+.padding-small {
+    padding: 0px 5px;
+    background-color: cornflowerblue;
+}
+
+.padding-med {
+    padding: 0px 15px;
+    background-color: cornflowerblue;
+}
+
+.padding-big {
+    padding: 0px 25px;
+    background-color: cornflowerblue;
+
+}
+
+.margin-small {
+    margin: 0px 5px;
+}
+
+.margin-med {
+    margin: 0px 15px;
+
+}
+
+.margin-big {
+    margin: 0px 25px;
+
+}
+
+.border-small {
+    border: 1px solid orange;
+}
+
+.border-med {
+    border: 5px solid orange;
+}
+
+.border-big {
+    border: 10px solid orange;
+}
